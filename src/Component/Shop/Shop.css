@@ -21,6 +21,7 @@
     color: white;
     border: none;
     border-radius: 10px;
+    font-weight: 600;
 
 }
 .choose-btn{
@@ -29,4 +30,5 @@
     color: white;
     border: none;
     border-radius: 10px;
+    font-weight: 600;
 }

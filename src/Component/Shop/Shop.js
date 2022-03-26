@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Product from '../Product/Product';
+import Question from '../Question/Question';
 import './Shop.css'
 const Shop = () => {
     const [products, setProducts] = useState([])
@@ -45,6 +46,7 @@ const Shop = () => {
                     <p>Choose Again</p>
                 </button>
             </div>
+            <Question></Question>
         </div>
     );
 

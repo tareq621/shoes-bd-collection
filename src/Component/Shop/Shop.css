@@ -8,4 +8,25 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 40px;
+    margin: 50px 20px;  
+}
+.cart-container{
+    background-color: sandybrown;
+    padding: 5px;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    background-color: #DE4839;
+    color: white;
+    border: none;
+    border-radius: 10px;
+
+}
+.choose-btn{
+    margin-top: 5px;
+    background-color: #DE4839;
+    color: white;
+    border: none;
+    border-radius: 10px;
 }

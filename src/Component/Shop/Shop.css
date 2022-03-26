@@ -32,3 +32,8 @@
     border-radius: 10px;
     font-weight: 600;
 }
+@media screen and (max-width: 650px){
+    .products-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

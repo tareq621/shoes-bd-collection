@@ -3,72 +3,72 @@
         "id": "623def87673e6cc9e8db117c",
         "picture": "https://images.unsplash.com/photo-1520256862855-398228c41684?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
         "price": 430,
-        "name": "Rhea Beach"
+        "name": "Pegasus 8-3765"
     },
     {
         "id": "623def8741a7afe7213e1b32",
         "picture": "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "price": 545,
-        "name": "Huff Joseph"
+        "name": "British Knights Sneaker"
     },
     {
         "id": "623def87733aff8acaf88152",
         "picture": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "price": 506,
-        "name": "Tamera Mcintyre"
+        "name": "Fringe classic chukka fashion"
     },
     {
         "id": "623def8700be16d1998c5e32",
         "picture": "https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
         "price": 563,
-        "name": "Freeman Hunter"
+        "name": "Adidas-0976"
     },
     {
         "id": "623def87da7801e5a29f5014",
         "picture": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
         "price": 484,
-        "name": "Cheryl Clements"
+        "name": "Nike Red"
     },
     {
         "id": "623def8709263fd65baa287d",
         "picture": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
         "price": 407,
-        "name": "Pearl Craig"
+        "name": "Metros sneaker"
     },
     {
         "id": "623def871a51744bf5069084",
         "picture": "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
         "price": 600,
-        "name": "Mable Branch"
+        "name": "Astra classic sneaker"
     },
     {
         "id": "623def87c9e867031e4c9c72",
         "picture": "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60",
         "price": 591,
-        "name": "Powell Delaney"
+        "name": "Kings SL sneaker"
     },
     {
         "id": "623def87844e9b4d3b08d215",
         "picture": "https://images.unsplash.com/photo-1571736772567-3aa763ff559a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE2fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60",
         "price": 499,
-        "name": "Gray Page"
+        "name": "Gray pegasus"
     },
     {
         "id": "623def87a8c6dc1254d071c4",
         "picture": "https://media.istockphoto.com/photos/shot-of-golden-sneakers-on-beige-background-picture-id962181892?k=20&m=962181892&s=170667a&w=0&h=g7E5XQM6_8UCBfAz75Tm5NAtVnCuzCzNRxqtXRx3rn4=",
         "price": 567,
-        "name": "Jimenez Acevedo"
+        "name": "Climbing shoes"
     },
     {
         "id": "623def87e71bc6c49e3d58ec",
         "picture": "https://media.istockphoto.com/photos/new-unbranded-running-shoes-isolated-on-white-background-picture-id519269082?k=20&m=519269082&s=170667a&w=0&h=NutKUpYyIGDR1nRdKI9peBaMIR7JcfcsOLNrzp8bXw4=",
         "price": 564,
-        "name": "Yolanda Bartlett"
+        "name": "Running shoes"
     },
     {
         "id": "623def8792b00f0c73ea3f6e",
         "picture": "https://media.istockphoto.com/photos/trendy-pink-sneakers-picture-id1182289833?k=20&m=1182289833&s=170667a&w=0&h=MrWev9kIM0dLxglSTmgwefjr4SvOiNx3WacbmCnUE-g=",
         "price": 484,
-        "name": "Guadalupe Pacheco"
+        "name": "Skool LX Sneakers"
     }
 ]

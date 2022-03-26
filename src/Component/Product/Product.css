@@ -17,12 +17,15 @@
 .product-info{
     margin: 0 13px;
 }
-.btn-info{
-    background-color: white;
-    border: 0;
-    color: blueviolet;
-    font-weight: 900px;
-    font-size: 20px;
-    padding: 5px;
-    margin-top: 15px;
+.btn-cart{
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 10px;
+    background-color: #FF6666;
+    color: white;
+    font-weight: 600;
+}
+.btn-text{
+    margin-right: 5px;
 }

@@ -18,7 +18,9 @@ const Shop = () => {
         const choose = [cart[random]]
         setCart(choose)
     };
-
+    const chooseAgain = () => {
+        setCart([])
+    };
     return (
         <div className='shop-container'>
             <div className='products-container'>
@@ -39,7 +41,7 @@ const Shop = () => {
                 <button onClick={chooseOne} className='button'>
                     <p>ADD TO CART</p>
                 </button>
-                <button className='choose-btn'>
+                <button onClick={chooseAgain} className='choose-btn'>
                     <p>Choose Again</p>
                 </button>
             </div>
